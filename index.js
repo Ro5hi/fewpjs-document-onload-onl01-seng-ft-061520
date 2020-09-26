@@ -6,5 +6,5 @@ document.addEventListener("DOMContentLoaded", function() {
 
 function updateDOM() {
   document.getElementId("text")
-  .innerHTML = "This is really cool!"
+  .innerHTML = "This is really cool!";
 }
