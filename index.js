@@ -6,4 +6,5 @@ document.addEventListener("DOMContentLoaded", function() {
 
 function.updateDOM() {
   document.getElementId("text")
+  .innerHtml
 }
