@@ -5,5 +5,5 @@ document.addEventListener("DOMContentLoaded", function() {
 });
 
 function.updateDOM() {
-  document.getElementID
+  document.getElementId("text")
 }
