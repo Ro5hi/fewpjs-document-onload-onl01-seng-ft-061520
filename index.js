@@ -4,7 +4,7 @@ document.addEventListener("DOMContentLoaded", function() {
   console.log("The DOM has loaded");
 });
 
-function.updateDOM() {
+function updateDOM() {
   document.getElementId("text")
   .innerHTML = "here"
 }
